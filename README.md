@@ -1,6 +1,6 @@
 # portfolio_page
 
-A portfolio web using Flutter.
+My portfolio page with responsive UI for web and mobile using Flutter
 
 ## Getting Started
 
